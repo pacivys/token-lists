@@ -337,13 +337,13 @@
       },
       "examples": [
         {
-          "4_0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984":  {
-            "name": "Uniswap",
-            "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
-            "symbol": "UNI",
+          "0x0BDA33c8A82c433933132252Fc1484e8B7dB3c63":  {
+            "name": "froge",
+            "address": "0x0BDA33c8A82c433933132252Fc1484e8B7dB3c63",
+            "symbol": "FROGE",
             "decimals": 18,
-            "chainId": 4,
-            "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+            "chainId": 8453,
+            "logoURI": "https://lime-main-amphibian-458.mypinata.cloud/files/bafybeifjgjlk6gfrwjtvk56ae5zy5k6dh7q66vcdudzhg63ndpjpx3w75y?X-Algorithm=PINATA1&X-Date=1733455634&X-Expires=30&X-Method=GET&X-Signature=a3a72fba1a42974f93b7ac46a2b5f8b78f4a3bfbc6262251d9379602469935aa"
           }
         }
       ]
